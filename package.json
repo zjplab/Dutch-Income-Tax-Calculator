@@ -1,0 +1,15 @@
+{
+  "name": "dutch-income-tax-calculator",
+  "version": "1.0.0",
+  "description": "Python versioned Dutch Income Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dutch-tax-income-calculator": "^24.1.3"
+  }
+}

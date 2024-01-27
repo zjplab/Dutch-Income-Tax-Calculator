@@ -1,0 +1,9 @@
+name: tax
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - pynode
